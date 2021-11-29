@@ -1,3 +1,6 @@
+
+
+
 text=""
 def dec(ls):
     global text
