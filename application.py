@@ -8,7 +8,7 @@ import decompresser
 class window():
 	def __init__(self):
 		self.wind=Tk()
-		self.wind.title("IRISTI")
+		self.wind.title("AyoubMassik")
 		self.wind.state("zoomed")
 		self.wind.configure(background='white')
 		Open=Button(self.wind,text="Open",border=0,command=self.open,fg="Black",bg="#ffc107",width=12,height=2,font=('Lucida Calligraphy',12,'bold')) 
